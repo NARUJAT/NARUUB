@@ -69,7 +69,7 @@ async def rraid(xspam: Client, message: Message):
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏꜱ ɪꜱ ꜱᴜᴅᴏ ᴜꜱᴇʀ 💗")
         else:
             rusers.append(id)
-            await message.reply_text("ᴀᴄᴛɪᴠᴀᴛᴇᴅ ʀᴇᴘʟʏʀᴀɪᴅ ✅")
+            await message.reply_text("ᴄʜᴜᴅᴀᴇ sᴛᴀʀᴛ ʙʏ ɴᴀʀᴜ ✅")
 
     elif message.reply_to_message:
         user_id = message.reply_to_message.from_user.id
@@ -81,7 +81,7 @@ async def rraid(xspam: Client, message: Message):
             await message.reply_text("ɴᴏᴘᴇ ᴛʜɪꜱ ɢᴜʏꜱ ɪꜱ ꜱᴜᴅᴏ ᴜꜱᴇʀ 💗")
         else:
             rusers.append(user_id)
-            await message.reply_text("» ᴀᴄᴛɪᴠᴀᴛᴇᴅ ʀᴇᴘʟʏʀᴀɪᴅ ✅")
+            await message.reply_text("» ᴄʜᴜᴅᴀᴇ sᴛᴀʀᴛ ʙʏ ɴᴀʀᴜ ✅")
 
     else:
         await message.reply_text(".ʀʀᴀɪᴅ <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
@@ -96,7 +96,7 @@ async def draid(xspam: Client, message: Message):
         id = ok.id
         if id in rusers:
             rusers.remove(id)
-            await message.reply_text("ʀᴇᴘʟʏ ʀᴀɪᴅ ᴅᴇ-ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✅")
+            await message.reply_text("ᴄʜᴜᴛ s ʟɴᴅ ɴɪᴋᴀʟ ᴅɪʏᴀ ɢʏᴀ ✅")
 
     elif message.reply_to_message:
         user_id = message.reply_to_message.from_user.id
@@ -104,7 +104,7 @@ async def draid(xspam: Client, message: Message):
         id = ok.id
         if id in rusers:
             rusers.remove(id)
-            await message.reply_text("ʀᴇᴘʟʏ ʀᴀɪᴅ ᴅᴇ-ᴀᴄᴛɪᴠᴀᴛᴇᴅ ✅")
+            await message.reply_text("ᴄʜᴜᴛ s ʟɴᴅ ɴɪᴋᴀʟ ᴅɪʏᴀ ɢʏᴀ ✅")
 
     else:
         await message.reply_text(".ᴅʀʀᴀɪᴅ <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ> <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
