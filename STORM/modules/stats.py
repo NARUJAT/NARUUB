@@ -36,7 +36,7 @@ async def stats(client: Client, message: Message):
     ms = (end - start).seconds
     await bunny.edit_text(
         """
-**ʜᴇʀᴇ ɪꜱ ʏᴏᴜʀ ꜱᴛᴀᴛꜱ ʙʏ ꜱᴛᴏʀᴍ**
+**ʜᴇʀᴇ ɪꜱ ʏᴏᴜʀ ꜱᴛᴀᴛꜱ ʙʏ ɴᴀʀᴜᴊᴀᴀᴛ**
 
 **• `{}` ᴘʀɪᴠᴀᴛᴇ ᴍᴇssᴀɢᴇs**
 
