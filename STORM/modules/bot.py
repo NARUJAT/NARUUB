@@ -7,13 +7,13 @@ from config import ALIVE_PIC, SUDO_USERS
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-KEX = f"""ㅤ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ ‌🪽
+KEX = f"""ㅤ ɴᴀʀᴜ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 ➖➖➖➖➖➖➖➖➖➖➖
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
 **• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M1.0`
-**• ɢʀᴏᴜᴘ 💫: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🥀](https://t.me/STORM_CHATZ)**
-**• ᴄʜᴀɴɴᴇʟ ✨: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🥀](https://t.me/STORM_TECHH)**
-**• ꜱᴇɴꜱᴇɪ 🫂: [ꜱᴛᴏʀᴍ 🥀](https://t.me/kexx_XD)**
+**• ɢʀᴏᴜᴘ 💫: [ɴᴀʀᴜ ᴄʜᴀᴛᴢ 🥀](https://t.me/shayrigalibki)**
+**• ᴄʜᴀɴɴᴇʟ ✨: [ᴊᴀᴀᴛ ʙᴏʏ 🥀](https://t.me/brokenshayri1)**
+**• ꜱᴇɴꜱᴇɪ 🫂: [ᴊᴀᴀᴛ 🥀](https://t.me/mr_naru)**
 ➖➖➖➖➖➖➖➖➖➖➖"""
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["ping"], ["."]))
@@ -22,7 +22,7 @@ async def ping(_, e: Message):
       Fuk = await e.reply("⚡")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 10000
-      await Fuk.edit_text(f"ꜱ ᴛ ᴏ ʀ ᴍ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡\n» `{ms} ᴍꜱ`")
+      await Fuk.edit_text(f"ɴ ᴀ ʀ ᴜ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ꜱᴛᴏʀᴍ ⚡\n» `{ms} ᴍꜱ`")
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["reboot", "restart"], ["."]))
 async def restart_bot(_, message: Message):
