@@ -7,7 +7,7 @@ pm_watcher = 5
 KEX = PM_PIC
 
 TEXT = """
-•            **[ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM-USERBOT)**
+•            **[ɴᴀʀᴜ](https://t.me/mr_naru)**
 ╰• **ᴏᴡɴᴇʀ** » {}
 • **ᴛʜɪs ɪs ᴋᴇx ᴘᴍ sᴇᴄᴜʀɪᴛʏ 🛡️**
 ➖➖➖➖➖➖➖➖➖➖➖ 
@@ -18,7 +18,7 @@ TEXT = """
 • **ᴡᴀʀɴ ʟɪᴍɪᴛs** » {}      
 ╰• **ʏᴏᴜʀ ᴡᴀʀɴs** » {}
 ➖➖➖➖➖➖➖➖➖➖➖
-•           **[ꜱᴜᴘᴘᴏʀᴛ](https://t.me/STORM_CHATZ)**
+•           **[ꜱᴜᴘᴘᴏʀᴛ](https://t.me/shayrigalibki)**
 """
 
 @Client.on_message(filters.command("pmpermit", hl) & filters.me)
