@@ -18,8 +18,8 @@
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
     <a href="https://hub.docker.com/r/VARC9210/STORM-USERBOT"> <img src="https://img.shields.io/docker/image-size/VARC9210/STORM-USERBOT/buster?label=docker%20image%20size&logo=docker&style=for-the-badge" /></a>
-    <a href="https://t.me/STORM_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://t.me/STORM_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/SHAYRIGALIBKI"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/BROKENSHAYRI1"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
     </p>
     
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
